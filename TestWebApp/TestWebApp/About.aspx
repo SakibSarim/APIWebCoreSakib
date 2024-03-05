@@ -6,4 +6,13 @@
     <p>Use this area to provide additional information.</p>
 
     <p>Kan Ataa</p>
+    <script type="text/javascript">
+
+        window.onload = function () {
+
+            console.log('Test APi App');
+            console.log(React);
+            console.log(ReactDOM);
+        }
+    </script>
 </asp:Content>
